@@ -1,0 +1,46 @@
+/*공통*/
+*{margin: 0; padding: 0}
+body{overflow-x: hidden}
+ul{list-style: none}
+.space{clear: both}
+
+.wrap{width: 1920px; margin: 0 auto}
+/*헤드부분*/
+.header{padding: 20px 0;}
+.logo{width: 150px; height: 50px; float: left}
+.menu{width: 350px; height: 20px; float: right; padding: 20px 0}
+.menu>li{width: 70px; float: left; text-align: center}
+/*메인이미지부분*/
+.mainimg{height: 450px}
+/*콘텐츠부분*/
+.box1{height: 711px}
+.box2{height: 523px; background-color: #576f9b}
+.box2>div{width: 50%; margin: 0 auto; text-align: center; padding-top: 100px; color: #fff}
+.box2 h3{font-size: 25px}
+.box3{height: 639px}
+.box3 h3{font-size: 25px}
+.box3 p{font-size: 12px}
+.box3_left{width: 50%; height: 639px; float: left; background-color: #375079}
+.box3_left>div{width: 50%; margin: 0 auto; text-align: center; padding-top: 100px; color: #fff}
+.box3_right{width: 50%; height: 639px; float: right; background-color: #425a86}
+.box3_right>div{width: 50%; margin: 0 auto; text-align: center; padding-top: 100px; color: #fff}
+.box4{height: 639px}
+.box4 h3{font-size: 25px}
+.box4 p{font-size: 12px}
+.box4_left{width: 50%; height: 639px; float: left; background-color: #425a86;}
+.box4_left>div{width: 50%; margin: 0 auto; text-align: center; padding-top: 100px; color: #fff}
+.box4_right{width: 50%; height: 639px; float: right; background-color: #576f9b;}
+.box4_right>div{width: 50%; margin: 0 auto; text-align: center; padding-top: 100px; color: #fff}
+
+/*푸터부분*/
+
+.footer{height: 171px;background-color: #eceff4}
+.copyright{text-align: center; padding: 10px 0}
+.sns{width: 120px; margin: 0 auto; padding-top: 40px}
+.sns>li{width: 30px; height: 30px; margin: 0 5px; float: left; text-align: center; background-color: gray; border-radius: 5px}
+.sns>li>img{vertical-align: middle}
+
+
+
+
+
